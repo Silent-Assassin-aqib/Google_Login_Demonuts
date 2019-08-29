@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584160195749",
+    "project_id": "finaldemonutlogin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584160195749:android:fc9e8c0e492a7c08",
+        "android_client_info": {
+          "package_name": "com.exampledemo.parsaniahardik.google_login_demonuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584160195749-6v1sufvha98mr1u9gjrne2trnuo6ttj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATETPzIDfrOl071MEkhIDqn0o36m-iNkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
